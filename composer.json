@@ -1,0 +1,7 @@
+{
+  "name": "jusoor/qatar",
+  "description": "Jusoor Qatar - HR Solutions",
+  "require": {
+    "php": ">=7.4"
+  }
+}
